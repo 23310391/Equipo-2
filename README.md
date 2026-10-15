@@ -8,6 +8,7 @@
   potencia, una caja de engranes de 170RPM, cuyo diámetro es de 25mm y con un eje de salida en forma de «D»  de 4mm de diámetro. Además 
   cuenta con un decodificador
   en cuadratura o encoder efecto hall que le facilita la lectura de los pulsos por revolución.
+  
   <img width="600" height="604" alt="image" src="https://github.com/user-attachments/assets/20b5f5ab-05dd-4bc4-a224-803ab1265343" />
 
   Especificaciones
@@ -19,6 +20,7 @@
   - Peso: 88 g.
   - Resolución del encoder (Hall): 539PPR
   - Longitud del cable: 20 cm.
+    
   <img width="844" height="788" alt="image" src="https://github.com/user-attachments/assets/4c3a5597-79a4-4ffd-b288-b9e3a4d98e45" />
 
 ### Puente H BTS7960
@@ -49,6 +51,7 @@
   - Apagado térmico de protección y por caída de voltaje
   - Dimensiones: 50 mm x 50 mm
   - Peso: 57.72g
+    
   <img width="800" height="572" alt="image" src="https://github.com/user-attachments/assets/8690ec8b-e9ff-4016-bb0c-bd915f511729" />
 
 
@@ -80,6 +83,7 @@
   - Mínimo voltaje de aislamiento entre pines 1-4 a pines 5-8: 2.1 kVRM.
   - Dimensiones: 30 mm x 13 mm x 10 mm.
   - Peso: 4 g.
+    
     <img width="472" height="173" alt="image" src="https://github.com/user-attachments/assets/902aa5b8-4f88-495d-a461-17c8ae4d27a1" />
 
 ### Esp32
@@ -115,7 +119,8 @@ Especificaciones:
   Humedad ambiente: 0 95 % Sin Condensación
   Peso neto: 410g
   Material de Shell: caja del Metal / Aluminio
-  <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/909400a1-f303-4bb2-b465-e46ea80d55d3" />
+  
+  <img width="1196" height="1200" alt="image" src="https://github.com/user-attachments/assets/d81adaf0-0bbe-4b8c-a5f1-a7e969168750" />
 
 
 ### Sensor HR0062
